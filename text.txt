@@ -1,5 +1,5 @@
 Hola mundo me llamo Pedro Gonzalez y tengo 26 años y
-esta estudiando git para ser un programador completo
+estoy estudiando git para ser un programador completo
 
 Estoy vibrando para que todo salga excelente
 
