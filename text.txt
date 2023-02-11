@@ -1,1 +1,6 @@
-Hola mundo me llamo Pedro Gonzalez y tengo 25 años
+Hola mundo me llamo Pedro Gonzalez y tengo 26 años
+
+esta estudiando git para ser un programador completo
+
+vibrando para que todo salga excelente
+
